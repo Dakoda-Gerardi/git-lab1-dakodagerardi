@@ -1,1 +1,5 @@
-"This line was added by mistake" 
+Learn Git
+Use GitHub
+Manage Versions
+Be good at this stuff
+This line was added by mistake.
